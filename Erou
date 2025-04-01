@@ -1,0 +1,6 @@
+#include "erou."
+
+erou::erou()
+{
+    //ctor
+}
